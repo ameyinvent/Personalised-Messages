@@ -6,4 +6,6 @@ Here is your chance to Automatically send Personalised messages :)
 
 # Gather Contacts
 
+1.Open Google Contacts webpage and export your contacts.
+
 
