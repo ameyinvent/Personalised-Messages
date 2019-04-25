@@ -4,3 +4,6 @@ Why use old school broadcast lists to send Diwali Message to your loved ones? Se
 
 Here is your chance to Automatically send Personalised messages :)
 
+# Gather Contacts
+
+
