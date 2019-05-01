@@ -12,4 +12,5 @@ Here is your chance to Automatically send Personalised messages :)
 # Install libraries
 
 Selenium : pip install selenium
+
 Pandas : pip install pandas
