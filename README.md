@@ -11,6 +11,6 @@ Here is your chance to Automatically send Personalised messages :)
 
 # Install libraries
 
-Selenium : pip install selenium
 
-Pandas : pip install pandas
+1) Selenium : `pip install selenium `
+2) Pandas : `pip install pandas`
