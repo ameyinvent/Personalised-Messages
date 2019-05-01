@@ -10,3 +10,6 @@ Here is your chance to Automatically send Personalised messages :)
 2.Ensure to keep this csv as "google.csv" and keep it in the same folder.
 
 # Install libraries
+
+Selenium : pip install selenium
+Pandas : pip install pandas
