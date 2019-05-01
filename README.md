@@ -6,8 +6,9 @@ Here is your chance to Automatically send Personalised messages :)
 
 # Gather Contacts
 
-1.Open Google Contacts webpage and export your contacts.
-2.Ensure to keep this csv as "google.csv" and keep it in the same folder.
+1) Open [Google Contacts](https://contacts.google.com "G contacts") webpage and export your contacts.
+2) Ensure to keep this csv as "google.csv" and keep it in the same folder.
+
 
 # Install libraries
 
