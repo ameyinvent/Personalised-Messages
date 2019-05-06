@@ -15,3 +15,5 @@ Here is your chance to Automatically send Personalised messages :)
 
 1) Selenium : `pip install selenium `
 2) Pandas : `pip install pandas`
+
+## Chrome Driver
