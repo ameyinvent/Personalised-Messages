@@ -16,6 +16,6 @@ Here is your chance to Automatically send Personalised messages :)
 1) Selenium : `pip install selenium `
 2) Pandas : `pip install pandas`
 
-## Chrome Driver
+# Chrome Driver
 1) Install the latest version of Chrome Driver:http://chromedriver.chromium.org/downloads
 2) Set up the path of Chrome Driver in line 8 of send_greetings.py
