@@ -21,3 +21,11 @@ Here is your chance to Automatically send Personalised messages :)
 2) Set up the path of Chrome Driver in line 8 of send_greetings.py
 
 ## Running the code
+python send_greetings.py
+
+This will start execution of filter contacts.
+To add a contact to your list
+Enter the Personalised name with which you want to send the message
+To ignore the contact, press enter
+To use the given name, the one after -, press f and enter
+to break through the list, Press f and enter.
